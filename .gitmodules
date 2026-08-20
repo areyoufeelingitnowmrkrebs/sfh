@@ -1,0 +1,9 @@
+[submodule "software/source/rinit"]
+	path = software/source/rinit
+	url = https://github.com/areyoufeelingitnowmrkrebs/rinit
+[submodule "software/source/brush"]
+	path = software/source/brush
+	url = https://github.com/areyoufeelingitnowmrkrebs/brush
+[submodule "software/source/uutilscore"]
+	path = software/source/uutilscore
+	url = https://github.com/areyoufeelingitnowmrkrebs/uutilscore
