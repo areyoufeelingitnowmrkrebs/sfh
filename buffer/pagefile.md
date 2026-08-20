@@ -1,0 +1,3 @@
+/buffer/pagefile
+
+Swapspace.
